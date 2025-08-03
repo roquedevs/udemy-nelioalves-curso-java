@@ -1,7 +1,9 @@
-package orientacao.objetos.introducao.exercicios;
+package orientacao.objetos.introducao.exercicios.application;
 
 import java.util.Locale;
 import java.util.Scanner;
+
+import orientacao.objetos.introducao.exercicios.entities.Employee;
 
 public class ProgramEmployee {
 

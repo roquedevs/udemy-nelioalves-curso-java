@@ -1,4 +1,4 @@
-package orientacao.objetos.introducao.exercicios;
+package orientacao.objetos.introducao.exercicios.entities;
 
 public class Student {
 
