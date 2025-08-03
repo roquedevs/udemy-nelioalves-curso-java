@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Exercicio5 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Locale.setDefault(Locale.US);
