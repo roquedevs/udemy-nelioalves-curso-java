@@ -6,7 +6,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class Programcal {
+public class ProgramCalendar {
 
 	public static void main(String[] args) {
 
