@@ -1,7 +1,5 @@
 package orientacao.objetos.composicao.exercicios.entities;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
@@ -16,8 +14,6 @@ public class Worker {
 
 	private Department department;
 	private List<HourContract> contracts = new ArrayList<>();
-
-	private SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
 	public Worker() {
 	}

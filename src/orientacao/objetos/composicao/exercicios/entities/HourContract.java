@@ -1,7 +1,5 @@
 package orientacao.objetos.composicao.exercicios.entities;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class HourContract {
