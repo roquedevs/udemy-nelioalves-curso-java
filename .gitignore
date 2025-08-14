@@ -1,0 +1,39 @@
+# Saída do Maven
+/target/
+/bin/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/*.iws
+
+# Eclipse
+.classpath
+.project
+/.settings/
+
+# VS Code
+/.vscode/
+
+# Arquivos de build
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos temporários e de backup
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos específicos do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Logs e caches
+/logs/
+/.cache/
